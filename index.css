@@ -122,7 +122,7 @@ gap:24px;
     body{
         background-color: rgb(246, 165, 165); 
         box-sizing: border-box;
-        /* padding: 5px; */
+        padding: 5px;
  }
  /** responsive navbar  */
  .nav_bar {
